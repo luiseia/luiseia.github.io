@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 朱昳昊
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yihao Zhu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yihao
+last_name: Zhu
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Teaching Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of North Texas
+    url: https://www.unt.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, deep learning, computer vision, and autonomous driving.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:YihaoZhu@my.unt.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
