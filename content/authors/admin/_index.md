@@ -54,6 +54,7 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yihao Zhu is a PhD student in the Autonomous Driving Lab at the University of North Texas. 
+His research interests include computer vision and general artificial intelligence.
+He works in the Autonomous Driving Group under the guidance of Professor Qing Yang,
+which develops autonomous driving tasks for multi-vehicle cooperative perception and end-to-end autonomous driving tasks.
